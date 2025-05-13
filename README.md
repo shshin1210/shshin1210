@@ -1,5 +1,10 @@
 ### Wellcome to Suhyun's Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
+
+### My Interests
+I'm a MS-Phd student at [POSTECH Computer Graphics Lab](https://cg.postech.ac.kr/ourteam/) under the supervision of [Prof. Seung-Hwan Baek.](https://www.shbaek.com/home)
+My recent interest lies on the interaction between light and objects. Recently, my interest lie in capturing both the spectral and 3D geometric information of objects, integrating software, hardware, and optical techniques. I aim to understand the interactions between light and objects and to extract hidden information from these interactions.
+
+
 ### Education
 Pohang University of Science and Technology, MS/PHD in Computer Graphis Lab <br />
 Chung-Ang University, Mathematics
